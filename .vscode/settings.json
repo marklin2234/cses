@@ -63,6 +63,7 @@
         "concepts": "cpp",
         "algorithm": "cpp",
         "__tree": "cpp",
-        "set": "cpp"
+        "set": "cpp",
+        "unordered_set": "cpp"
     }
 }
